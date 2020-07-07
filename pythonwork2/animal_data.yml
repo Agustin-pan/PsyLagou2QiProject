@@ -1,0 +1,11 @@
+cat:
+  name: 西西
+  color: 黄色
+  age: 3
+  sex: 公
+
+dog:
+  name: 东风
+  color: 黑色
+  age: 5
+  sex: 母
